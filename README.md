@@ -1,4 +1,4 @@
-this is my first git repository.
+my first git repository.
 <br>
 author-ankita
 <br>
