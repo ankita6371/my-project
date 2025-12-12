@@ -1,12 +1,2 @@
-my first git repository.
-<br>
-author-ankita
-<br>
-class Anki 
-{
-public static void main(String args[]){
-System.out.println("hello");
-}
-}
-
-
+my-project repository for git tutorial.this is a example repository for git ttorial on https://www.w3schools.com.
+this repository is built step by step in this tutorial
